@@ -1,0 +1,29 @@
+body {
+  color:rgb(0, 150, 100);
+  background-color: rgb(155, 255, 179);
+}
+.vcard{
+  display: grid;
+  grid-template-columns: 70% 30%;
+  grid-gap: 1em;
+}
+img {
+  border: 30px solid #ddd;
+  border-radius: 16px;
+  border-color: rgb(155, 150, 80);
+  padding: 5px;
+  width: 270px;
+    transform: rotate(-90deg);
+}
+h2 {
+  font-style: italic;
+}
+h1 {
+  color:rgb(250, 99, 71);
+}
+h2 {
+  color:rgb(5, 0, 251);
+}
+h3 {
+  color:rgb(5, 0, 251);
+}
